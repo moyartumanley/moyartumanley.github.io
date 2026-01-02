@@ -1,200 +1,144 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "About Me": {
+    "name": "Moyartu Manley",
+    "label": "Undergraduate Research Assistant",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mmanley@macalester.edu",
+    "phone": "352-515-8501",
+    "url": "https://github.com/moyartumanley",
+    "summary": "As a Computer Science major and Sociology minor, my interests are centered at the intersection of technology and human behavior. Thus, my work is driven by a fascination with how platform design shapes social interaction. Whether I am scraping imageboards to analyze community toxicity or winning a 'Fan Favorite' award at a game jam, I work to use technology to better understand and serve people."
+    ,
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Saint Paul",
       "countryCode": "US",
-      "region": "California"
+      "region": "Minnesota"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "moyartu-manley",
+        "url": "https://www.linkedin.com/in/moyartu-manley/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Department of Computer Science, Macalester College",
+      "position": "Undergraduate Research Assistant",
+      "url": "",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": "Composed and presented research proposal to CS department faculty, securing approval for a novel study into online community dynamics. Analyzed the correlation between group demographics and community dynamics to identify key factors and directionality of toxicity in insular online spaces.",
+      "highlights": [
+        "Developed and implemented a Python-based web scraper using Beautiful Soup 4 and Requests to efficiently collect and process posts from online imageboards.",
+        "Effectively communicated research findings and insights to faculty advisors through weekly meetings."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Department of Computer Science, Macalester College",
+      "position": "Summer Research Assistant",
+      "url": "",
+      "startDate": "2025-05",
+      "endDate": "2025-07",
+      "summary": "Utilized Atlas.ti for qualitative thematic analysis of datasets and engineered Latent Dirichlet Allocation (LDA) models for topic discovery, uncovering 15 key thematic areas.",
+      "highlights": [
+        "Contributed 80,000+ lines of code into an existing Python-based web scraper using Git.",
+        "Led the large-scale text tokenization of a 3.5+ million-word corpus, optimizing data preparation for NLP applications.",
+        "Presented key insights during bi-weekly principal investigator meetings, influencing project direction."
+      ]
+    },
+    {
+      "name": "OptumRx",
+      "position": "User Experience Intern",
+      "url": "",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": "Spearheaded the redesign of the OptumRx patient portal and developed a working prototype using Figma. Composed empathy maps based on detractors expressed by users.",
+      "highlights": [
+        "Devised an implementation budget for the prototype and its associated services.",
+        "Presented project to the OptumRx team and industry leaders."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Macalester College",
+      "location": "Saint Paul, MN",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2023-09",
+      "endDate": "2027-05",
+      "score": "3.57",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Most Rizz Award",
+      "date": "2024-02",
+      "awarder": "Macalester's 48-hour Cupid Jam",
+      "summary": "Won during the development of 'Discord In Your Heart'."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Life-Changing Award",
+      "date": "2024-02",
+      "awarder": "Macalester's 48-hour Cupid Jam",
+      "summary": "Won during the development of 'Discord In Your Heart'."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Fan Favorite Award",
+      "date": "2024-02",
+      "awarder": "Macalester's 48-hour Cupid Jam",
+      "summary": "Won during the development of 'Discord In Your Heart'."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Languages",
+      "keywords": ["Java", "Javascript", "Python", "HTML", "CSS"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Networking & APIs",
+      "keywords": ["RESTful APIs", "Serial Communication"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Embedded & IoT",
+      "keywords": ["Embedded Development", "SenseHAT", "Raspberry Pi", "Linux"]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "keywords": ["BeautifulSoup", "Gensim", "NLTK", "Spacy", "Node.js", "Ren.py"]
+    },
+    {
+      "name": "Developer Tools",
+      "keywords": ["Git", "VS Code", "Figma", "Atlas.ti"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Mini SL Departure Display",
+      "summary": "Designed and deployed a full-stack embedded transit monitoring system using Node.js and Raspberry Pi, integrating the SL Public Transport API for live data.",
+      "highlights": [
+        "Optimized data handling to manage and display best departure times across 8 nearest stations.",
+        "Used efficient state management to maintain a responsive display refresh rate."
+      ],
+      "startDate": "2025-08",
+      "endDate": "2025-12",
+      "url": ""
+    },
+    {
+      "name": "Discord In Your Heart",
+      "summary": "A game developed for a 48-hour game jam featuring a UI similar to Discord.",
+      "highlights": [
+        "Implemented core gameplay mechanics, route options, and game endings.",
+        "Won 3 out of 4 awards at Macalester's 48-hour Cupid Jam."
+      ],
+      "startDate": "2024-02",
+      "endDate": "2024-02",
+      "url": ""
     }
   ]
 }

@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - moyartumanley
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - femcel-research/web-scraper
+  - moyartumanley/SL-Departure-Display
+  - moyartumanley/Analog-Horror-Game
+  - moyartumanley/Discord-In-Your-Heart
+  
