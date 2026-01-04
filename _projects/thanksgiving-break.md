@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2025 Thanksgiving Break
-description: A map visualization of my activities during Thanksgiving break. I made this while studying abroad but unfortunately only collected GPS data for two days. Some GPS data, such as when I went thrifting, was lost, however I still recorded the spots I visited on the embedded map below. It was unfortunately rainy throughout most of the break.
+description: A map visualization of my activities during Thanksgiving break. I made this while studying abroad but unfortunately only collected GPS data for two days. Some GPS data, such as when I went thrifting, was lost, however I still recorded the spots I visited on the embedded map below.
 img: assets/img/thanksgiving-break/christmas_market.jpg
 importance: 3
 category: data visualization
