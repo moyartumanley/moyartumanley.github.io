@@ -420,6 +420,11 @@ ninja.data = [{
           description: "An 8x8 pixel display that shows departures for Stockholm public transit. Worked on this during my semester abroad!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sl-departure/";
+            },},{id: "projects-imageboard-web-scraper",
+          title: 'Imageboard Web Scraper',
+          description: "A web scraper created for the purpose of the ongoing research that I am a part of.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web-scraper/";
             },},{
         id: 'social-cv',
         title: 'CV',
