@@ -425,6 +425,11 @@ ninja.data = [{
           description: "Submission for 2024 Cupid Game Jam hosted by Game Devs @ Mac",
           section: "Projects",handler: () => {
               window.location.href = "/projects/discord-in-your-heart/";
+            },},{id: "projects-2026-summer-internship-season",
+          title: '2026 Summer Internship Season',
+          description: "The job market was NOT looking too hot this year. Sankey chart showing my applications and their results.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/employment/";
             },},{id: "projects-simple-c-shell",
           title: 'Simple C Shell',
           description: "This project utilizes C to implement a basic shell capable of parsing basic commands, input and output redirection, and piping. Worked on this for my Computer Systems course.",
