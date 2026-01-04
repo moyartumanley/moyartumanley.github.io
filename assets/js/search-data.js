@@ -410,11 +410,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "projects-mn-barley-yields",
+          title: 'MN Barley Yields',
+          description: "d3.js visualizations from my Data-driven Information Visualizations course.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/barley-yields/";
             },},{id: "projects-discord-in-your-heart",
           title: 'Discord In Your Heart',
           description: "Submission for 2024 Cupid Game Jam hosted by Game Devs @ Mac",
           section: "Projects",handler: () => {
               window.location.href = "/projects/discord-in-your-heart/";
+            },},{id: "projects-simple-c-shell",
+          title: 'Simple C Shell',
+          description: "This project utilizes C to implement a basic shell capable of parsing basic commands, input and output redirection, and piping. Worked on this for my Computer Systems course.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shell-script/";
             },},{id: "projects-sl-departure-display",
           title: 'SL Departure Display',
           description: "An 8x8 pixel display that shows departures for Stockholm public transit. Worked on this during my semester abroad!",
@@ -422,7 +432,7 @@ ninja.data = [{
               window.location.href = "/projects/sl-departure/";
             },},{id: "projects-imageboard-web-scraper",
           title: 'Imageboard Web Scraper',
-          description: "A web scraper created for the purpose of the ongoing research that I am a part of.",
+          description: "A python-based web scraper created for ongoing research that I am a part of.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web-scraper/";
             },},{
