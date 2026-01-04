@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/projects/sl-departure/";
             },},{id: "projects-2025-thanksgiving-break",
           title: '2025 Thanksgiving Break',
-          description: "A map visualization of my activities during Thanksgiving break. I made this while studying abroad but unfortunately only collected GPS data for two days. Some GPS data, such as when I went thrifting, was lost, however I still recorded the spots I visited on the embedded map below. It was unfortunately rainy throughout most of the break.",
+          description: "A map visualization of my activities during Thanksgiving break. I made this while studying abroad but unfortunately only collected GPS data for two days. Some GPS data, such as when I went thrifting, was lost, however I still recorded the spots I visited on the embedded map below.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/thanksgiving-break/";
             },},{id: "projects-imageboard-web-scraper",
