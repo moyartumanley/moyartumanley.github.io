@@ -37,7 +37,7 @@ $black-color: #000000 !default;
 // Theme colors
 
 $code-bg-color-light: rgba($racing-green, 0.05);
-$code-bg-color-dark: #091722 !default;
+$code-bg-color-dark: #010305 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
@@ -52,3 +52,11 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+// Typography
+$global-font-family: 'Neue-Haas-Grotesk', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$global-font-family-serif: 'Redaction50', serif !default;
+$code-font-family: "Courier New", Courier, monospace !default;
+
+$font-size: 16px !default;
+$font-weight-bold: 600; 

@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'Redaction50';
+  src: url('/assets/fonts/redaction/Redaction50-8Mg4n.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Redaction50';
+  src: url('/assets/fonts/redaction/Redaction50Bold-vmXRL.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Redaction50';
+  src: url('/assets/fonts/redaction/Redaction50Italic-2ODWo.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue-Haas-Grotesk';
+  src: url('/assets/fonts/neue-haas-grotesk/neuehaasgrotdisp-55roman-trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue-Haas-Grotesk';
+  src: url('/assets/fonts/neue-haas-grotesk/neuehaasgrotdisp-56italic-trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neue-Haas-Grotesk';
+  src: url('/assets/fonts/neue-haas-grotesk/neuehaasgrotdisp-65medium-trial.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue-Haas-Grotesk';
+  src: url('/assets/fonts/neue-haas-grotesk/neuehaasgrotdisp-66mediumitalic-trial.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* reapply overrides */
+
+body, p, li, span {
+  font-family: 'Neue-Haas-Grotesk', -apple-system, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand, .post-title, .site-title{
+  font-family: 'Redaction50', serif !important;
+  font-style: italic !important;
+}
+
+#about-me-setting-header, .post-title, h1.title {
+  font-family: 'Redaction50', serif !important;
+  font-style: italic !important;
+}
+
+strong, b {
+  font-weight: 600 !important; 
+}
+
+/* Moyartu Manley on About Me */
+.redaction {
+  font-family: 'Redaction50', serif !important;
+  font-size: 1.075em; 
+}
+
+.profile {
+  .more-info *{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: 'Redaction50', serif !important;
+  }
+}
+
+/* pixelated "o" */
+.pixel-o {
+  display: inline-block;
+  font-family: 'Redaction50', serif !important;
+  font-style: italic !important;
+  filter: contrast(300%) blur(0.4px);
+  image-rendering: pixelated;
+  margin-left: -1px;
+  margin-right: -1px;
+}
+
+/* yartu manley */
+.haas {
+  font-family: 'Neue-Haas-Grotesk', sans-serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+}
