@@ -2,7 +2,7 @@
 layout: page
 title: Analysis of Different LLM (Large Language Models)
 description: Analysis using a dataset from GapMinder. Work was done for Data-driven Information Visualization course.
-img: 
+img: assets/img/ai_worldview/model_release_line.png
 importance: 3
 category: data visualization
 ---
