@@ -22,11 +22,10 @@ This project turns a Raspberry Pi with an 8x8 senseHat screen into a real-time p
 ---
 
 ## Display demo:
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <video controls class="img-fluid rounded z-depth-1" width="auto" height="auto">
-            <source src="{{ '/assets/img/sl-departure/demo.mp4' | relative_url }}" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+<div class="video-container">
+    <video controls class="img-fluid rounded z-depth-1" width="auto" height="auto">
+        <source src="{{ '/assets/video/sl-departure/demo.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </div>
+
