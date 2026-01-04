@@ -410,16 +410,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-discord-in-your-heart",
           title: 'Discord In Your Heart',
           description: "Submission for 2024 Cupid Game Jam hosted by Game Devs @ Mac",
           section: "Projects",handler: () => {
               window.location.href = "/projects/discord-in-your-heart/";
+            },},{id: "projects-sl-departure-display",
+          title: 'SL Departure Display',
+          description: "An 8x8 pixel display that shows departures for Stockholm public transit. Worked on this during my semester abroad!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sl-departure/";
             },},{
         id: 'social-cv',
         title: 'CV',
