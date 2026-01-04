@@ -4,7 +4,7 @@ title: SL Departure Display
 description: An 8x8 pixel display that shows departures for Stockholm public transit. Worked on this during my semester abroad!
 img: assets/img/sl-departure/header.gif
 importance: 1
-category: work
+category: development
 related_publications: false
 ---
 This project turns a Raspberry Pi with an 8x8 senseHat screen into a real-time public transport departure board for the Stockholm Public Transport (SL) system. It uses an external GPS or IP location to find the nearest stations and displays live departure times on 8x8 LED matrix. [Linked is the Github repo!](https://github.com/moyartumanley/SL-Departure-Display)
