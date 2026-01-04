@@ -410,8 +410,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-analysis-of-different-llm-large-language-models",
-          title: 'Analysis of Different LLM (Large Language Models)',
+            },},{id: "projects-analysis-of-different-llms-large-language-models",
+          title: 'Analysis of Different LLMs (Large Language Models)',
           description: "Analysis using a dataset from GapMinder. Work was done for Data-driven Information Visualization course.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai-worldview/";
