@@ -18,17 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "These are some projects that I&#39;ve worked on!",
+          description: "These are some projects that I&#39;ve worked on. Some have been for courses while others are more personal projects. For development projects, I&#39;ve linked the GitHub repo towards the top of each project page. Most of my data visualization projects were done in Observable and written in JavaScript. I&#39;ve attached links to my Observable notebooks if you&#39;re interested in looking at my code! UX mockups are present on the page and prototypes will be linked as well!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "My Github profile and projects that I&#39;ve worked on.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -96,6 +89,11 @@ ninja.data = [{
           description: "A map visualization of my activities during Thanksgiving break. I made this while studying abroad but unfortunately only collected GPS data for two days. Some GPS data, such as when I went thrifting, was lost, however I still recorded the spots I visited on the embedded map below.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/thanksgiving-break/";
+            },},{id: "projects-ux-portfolio-mockup",
+          title: 'UX Portfolio Mockup',
+          description: "A mockup of a potential UX portfolio site created in Figma.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ux-portfolio-wireframe/";
             },},{id: "projects-imageboard-web-scraper",
           title: 'Imageboard Web Scraper',
           description: "A python-based web scraper created for ongoing research that I am a part of.",
