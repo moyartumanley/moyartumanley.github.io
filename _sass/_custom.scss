@@ -102,3 +102,9 @@ strong, b {
   font-weight: 400 !important;
   font-style: normal !important;
 }
+
+.spotlight img, .spotlight svg{
+  max-width: 400px !important; 
+  width: 100% !important;
+  height: auto !important;
+}

@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: These are some projects that I've worked on!
+description: These are some projects that I've worked on. Some have been for courses while others are more personal projects. For development projects, I've linked the GitHub repo towards the top of each project page. Most of my data visualization projects were done in Observable and written in JavaScript. I've attached links to my Observable notebooks if you're interested in looking at my code! UX mockups are present on the page and prototypes will be linked as well!
 nav: true
 nav_order: 3
-display_categories: [development, data visualization, fun]
+display_categories: [development, design, data visualization, fun]
 horizontal: false
 ---
 
