@@ -7,5 +7,5 @@ importance: 3
 category: fun
 ---
 My code can be found [here](https://observablehq.com/@mmanley-portfolio/employment)!
-<iframe width="100%" height="1459" frameborder="0"
-  src="https://observablehq.com/embed/@mmanley-portfolio/employment@565?cells=application_data%2Cviewof+linkColor%2Cgraph"></iframe>
+<iframe width="100%" height="2038" frameborder="0"
+  src="https://observablehq.com/embed/@mmanley-portfolio/employment@937?cells=title%2Cviewof+linkColor%2Cgraph"></iframe>
